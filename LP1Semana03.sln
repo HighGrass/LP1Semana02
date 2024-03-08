@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeString", "ChangeStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowTwoUntil", "PowTwoUntil\PowTwoUntil.csproj", "{8C036ABE-F1A4-4A3B-8F12-372F5FC2EC83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS", "RPS\RPS.csproj", "{F891417D-C94D-47E1-9A3A-B500F6901BA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{8C036ABE-F1A4-4A3B-8F12-372F5FC2EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C036ABE-F1A4-4A3B-8F12-372F5FC2EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C036ABE-F1A4-4A3B-8F12-372F5FC2EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F891417D-C94D-47E1-9A3A-B500F6901BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F891417D-C94D-47E1-9A3A-B500F6901BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F891417D-C94D-47E1-9A3A-B500F6901BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F891417D-C94D-47E1-9A3A-B500F6901BA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

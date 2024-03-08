@@ -6,6 +6,11 @@ namespace RPS
     {
         static void Main(string[] args)
         {
+            if(args.Length < 2){
+                Console.WriteLine("2 arguments are needed!");
+                return;
+            }
+
             GameItem player1Choice = ParseGameItem(args[0]);
             GameItem player2Choice = ParseGameItem(args[1]);
 
